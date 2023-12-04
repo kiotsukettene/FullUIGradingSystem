@@ -18,4 +18,7 @@ E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\refint\Gra
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.pdb
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.genruntimeconfig.cache
 E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\ref\Grading_System.dll
-E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.sourcelink.json
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.DashboardPanel.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.ProfManagement.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.StudentManagement.resources
+E:\C# PROGRAMS\Grading_System\Grading_System\obj\Debug\net6.0-windows\Grading_System.GradingSheet.resources

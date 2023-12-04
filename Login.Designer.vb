@@ -22,7 +22,7 @@ Partial Class Login
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim resources As ComponentModel.ComponentResourceManager = New ComponentModel.ComponentResourceManager(GetType(Login))
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Login))
         Panel1 = New Panel()
         Panel3 = New Panel()
         Panel2 = New Panel()
@@ -142,7 +142,7 @@ Partial Class Login
         ' 
         ' Label4
         ' 
-        Label4.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        Label4.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         Label4.ForeColor = Color.FromArgb(CByte(69), CByte(176), CByte(99))
         Label4.Location = New Point(38, 343)
         Label4.Name = "Label4"
@@ -167,7 +167,7 @@ Partial Class Login
         ' 
         ' signUpTab
         ' 
-        signUpTab.Font = New Font("Segoe UI", 12.0F, FontStyle.Underline, GraphicsUnit.Point)
+        signUpTab.Font = New Font("Segoe UI", 12F, FontStyle.Underline, GraphicsUnit.Point)
         signUpTab.ForeColor = Color.White
         signUpTab.Location = New Point(10, 3)
         signUpTab.Name = "signUpTab"
@@ -181,7 +181,7 @@ Partial Class Login
         RoundCornerButton2.BackColor = Color.FromArgb(CByte(69), CByte(176), CByte(99))
         RoundCornerButton2.FlatAppearance.BorderSize = 0
         RoundCornerButton2.FlatStyle = FlatStyle.Flat
-        RoundCornerButton2.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+        RoundCornerButton2.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
         RoundCornerButton2.ForeColor = Color.White
         RoundCornerButton2.Location = New Point(291, 422)
         RoundCornerButton2.Name = "RoundCornerButton2"
